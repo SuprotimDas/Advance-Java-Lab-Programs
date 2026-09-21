@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [20/Sep/2026:21:39:01 +0530] "GET / HTTP/1.1" 200 1861 http-bio-8080-exec-1 76
+0:0:0:0:0:0:0:1 - - [20/Sep/2026:21:39:01 +0530] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 15
+0:0:0:0:0:0:0:1 - - [20/Sep/2026:21:39:09 +0530] "GET /TestDBServlet HTTP/1.1" 200 780 http-bio-8080-exec-4 894
+0:0:0:0:0:0:0:1 - - [20/Sep/2026:21:39:14 +0530] "GET /index.html HTTP/1.1" 200 1861 http-bio-8080-exec-5 2
+0:0:0:0:0:0:0:1 - - [20/Sep/2026:21:39:16 +0530] "GET /AddEmployeeServlet HTTP/1.1" 200 1333 http-bio-8080-exec-6 70
+0:0:0:0:0:0:0:1 - - [20/Sep/2026:21:39:30 +0530] "POST /AddEmployeeServlet HTTP/1.1" 302 - http-bio-8080-exec-7 56
+0:0:0:0:0:0:0:1 - - [20/Sep/2026:21:39:30 +0530] "GET /ViewEmployeeServlet?status=added HTTP/1.1" 200 4583 http-bio-8080-exec-8 472

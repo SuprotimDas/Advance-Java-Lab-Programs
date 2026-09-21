@@ -1,0 +1,7 @@
+com\regsys\servlet\LoginServlet.class
+com\regsys\util\DBConnection.class
+com\regsys\util\PasswordUtil.class
+com\regsys\dao\UserDAO.class
+com\regsys\servlet\RegisterServlet.class
+com\regsys\servlet\ViewUsersServlet.class
+com\regsys\model\User.class
